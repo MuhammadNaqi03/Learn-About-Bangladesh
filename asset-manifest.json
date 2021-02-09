@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Learn-About-Bangladesh/static/css/main.e3d285d7.chunk.css",
+    "main.css": "/Learn-About-Bangladesh/static/css/main.a72d7ab3.chunk.css",
     "main.js": "/Learn-About-Bangladesh/static/js/main.7d1590c8.chunk.js",
     "main.js.map": "/Learn-About-Bangladesh/static/js/main.7d1590c8.chunk.js.map",
     "runtime-main.js": "/Learn-About-Bangladesh/static/js/runtime-main.feb670eb.js",
@@ -10,13 +10,14 @@
     "static/js/3.dc791edf.chunk.js": "/Learn-About-Bangladesh/static/js/3.dc791edf.chunk.js",
     "static/js/3.dc791edf.chunk.js.map": "/Learn-About-Bangladesh/static/js/3.dc791edf.chunk.js.map",
     "index.html": "/Learn-About-Bangladesh/index.html",
-    "static/css/main.e3d285d7.chunk.css.map": "/Learn-About-Bangladesh/static/css/main.e3d285d7.chunk.css.map",
-    "static/js/2.7f47c5d6.chunk.js.LICENSE.txt": "/Learn-About-Bangladesh/static/js/2.7f47c5d6.chunk.js.LICENSE.txt"
+    "static/css/main.a72d7ab3.chunk.css.map": "/Learn-About-Bangladesh/static/css/main.a72d7ab3.chunk.css.map",
+    "static/js/2.7f47c5d6.chunk.js.LICENSE.txt": "/Learn-About-Bangladesh/static/js/2.7f47c5d6.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Learn-About-Bangladesh/static/media/Bangladesh.9c1f2f64.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.feb670eb.js",
     "static/js/2.7f47c5d6.chunk.js",
-    "static/css/main.e3d285d7.chunk.css",
+    "static/css/main.a72d7ab3.chunk.css",
     "static/js/main.7d1590c8.chunk.js"
   ]
 }
