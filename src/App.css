@@ -1,12 +1,6 @@
 body {
   color: rgb(222, 224, 228);
-  background-image: url("https://cdn1.bbcode0.com/uploads/2021/2/9/aed1ef76be06155fa6414649d1e4a64e-full.jpg");
-  background-color: #cccccc;
-  height: 650px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
+  background-image: url("./Images/Bangladesh.jpg");
 }
 .app {
   font-family: Georgia, "Times New Roman", Times, serif;
